@@ -1,0 +1,1 @@
+import{s as o,c as s,C as e,$ as t,t as a}from"./shell-B6m_CVOX.js";import{b as r}from"./heart-CMmyX42V.js";o("home");r(s({look:[0,.3,0],r:11}));t("#cta").textContent=e.cta;t("#cta").onclick=()=>{location.href="universe.html"};setTimeout(()=>a(t("#h1"),e.headline,70).then(()=>a(t("#sub"),e.sub,35)),1400);

@@ -1,1 +1,0 @@
-import{s as o,c as l,$ as t}from"./shell-BdsxUXGB.js";import{b as c,n as i}from"./heart-sVqoIc3y.js";o("heart");const e=l({look:[0,0,0],r:12,drag:!0}),a=c(e);if(e){const r=i(e,a);e.tap=s=>{e.pick(s,[a.heart])&&r()},t("#pulse").onclick=r}else t("#pulse").hidden=!0;
